@@ -1,10 +1,10 @@
-# 🚢 Titanic Survival Prediction using Machine Learning
+#  Titanic Survival Prediction using Machine Learning
 
 A Machine Learning web application that predicts whether a passenger would survive the Titanic disaster based on passenger information. The project includes data preprocessing, feature engineering, model training using Gradient Boosting, and deployment through Streamlit.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The Titanic Survival Prediction project demonstrates an end-to-end Machine Learning workflow, starting from data preprocessing and feature engineering to model training and deployment.
 
@@ -12,13 +12,13 @@ The application accepts passenger details through an interactive web interface a
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 🔗 **Streamlit App:** *(https://titanic-survival-prediction-cb3ro9gpjhffoaud5v4fzc.streamlit.app/)*
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Dataset:** Titanic Dataset
 - **Source:** Kaggle
@@ -34,7 +34,7 @@ The application accepts passenger details through an interactive web interface a
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -45,7 +45,7 @@ The application accepts passenger details through an interactive web interface a
 
 ---
 
-## 📈 Machine Learning Pipeline
+##  Machine Learning Pipeline
 
 ### Data Preprocessing
 
@@ -65,7 +65,7 @@ The following additional features were created:
 
 ---
 
-## 🤖 Model Used
+##  Model Used
 
 **Gradient Boosting Classifier**
 
@@ -78,7 +78,7 @@ Reasons for choosing this model:
 
 ---
 
-## 📋 Features Used
+##  Features Used
 
 - Passenger Class
 - Age
@@ -93,7 +93,7 @@ Reasons for choosing this model:
 
 ---
 
-## 💻 Web Application
+##  Web Application
 
 The Streamlit application allows users to:
 
@@ -104,7 +104,7 @@ The Streamlit application allows users to:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Titanic_Survival_Prediction/
@@ -120,7 +120,7 @@ Titanic_Survival_Prediction/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Clone the repository
 
@@ -148,7 +148,7 @@ streamlit run app.py
 
 ---
 
-## 📸 Application Preview
+##  Application Preview
 
 <img width="1387" height="821" alt="image" src="https://github.com/user-attachments/assets/9057f8f7-fa8e-4c1f-a98d-5131f83ecc58" />
 <img width="1150" height="210" alt="image" src="https://github.com/user-attachments/assets/4d8bcc0a-9461-43ff-94cf-bb52609d9b54" />
@@ -156,7 +156,7 @@ streamlit run app.py
 
 
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 - Hyperparameter tuning
 - Model comparison with XGBoost and LightGBM
